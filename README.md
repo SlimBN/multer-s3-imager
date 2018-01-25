@@ -1,5 +1,5 @@
 
-Imager multer storage engine permit to resize and upload an image to AWS S3.
+Imager multer storage engine permit to resize, auto-orient and upload an image to AWS S3.
 
 This project is mostly an integration piece for existing code samples from Multer's [storage engine documentation](https://github.com/expressjs/multer/blob/master/StorageEngine.md).
 And was inspired from [multer-s3](https://github.com/badunk/multer-s3) and [gm](https://github.com/aheckmann/gm)
